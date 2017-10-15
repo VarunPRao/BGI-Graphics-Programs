@@ -50,4 +50,5 @@ void Menu()
 
  cont:;
  cleardevice();
+ 
  }
