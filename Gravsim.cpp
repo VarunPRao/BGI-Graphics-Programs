@@ -4,6 +4,7 @@
 #include<math.h>
 #include<dos.h>
 #include<stdio.h>
+
 double radians(float x)
 {
  double pi=3.14159;
