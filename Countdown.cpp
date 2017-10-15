@@ -4,6 +4,7 @@
 #include<iostream.h>
 #include<stdio.h>
 #include<math.h>
+
 void main()
 {
  int gd = DETECT,gm;
