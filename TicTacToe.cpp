@@ -179,4 +179,5 @@ void main()
  getch();
  cleardevice();
  closegraph();
+	
  }
